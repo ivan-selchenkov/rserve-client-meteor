@@ -1,0 +1,1 @@
+RServeClient = Npm.require("rserve-client");
